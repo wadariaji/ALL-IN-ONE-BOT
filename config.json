@@ -2,7 +2,7 @@
     "token": "",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "",
+    "mongodbUri": "mongodb+srv://wadaria:wadaria@cluster0.kf2od.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
     "excessCommands": {
         "utility": true,
         "other": true,
